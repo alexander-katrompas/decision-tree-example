@@ -40,7 +40,7 @@ Classic: Almost every ML library has it built-in (scikit-learn, R, MATLAB).
 
 ## **The Model**
 
-Standard logistic regression using PCA (2 components)
+Simple standard decision tree.
 
 
 
